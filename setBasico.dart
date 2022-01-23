@@ -2,7 +2,7 @@ void main() {
   // Set de paises
   Set<String> paises = {};
   
-  paises = {"Argentina", "Brasil", "Colombia", "Costa Rica"};
+  paises = {"Argentina", "Brasil", "Colombia", "Costa Rica", "Chile"};
   
   print(paises);
   
